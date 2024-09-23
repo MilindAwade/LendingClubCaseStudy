@@ -33,7 +33,7 @@ Loan.csv: The dataset used for the analysis.
 Python with Pandas, Seaborn, Metplotlib
 
 ## Acknowledgements
-My partner Visha Gangulay and I did the analysis and accomplished this case study which is true to our knowledge.
+My partner Visha Ganguly and I did the analysis and accomplished this case study which is true to our knowledge.
 
 
 ## Contact
