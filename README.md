@@ -22,10 +22,10 @@ Loan Rejected: The company declines the loan application (due to not meeting cer
  ## Summary
 Below resources are included as part of the solution:
 
-README: Contains the problem description.
-Milind_Awade.ipynb: Jupyter notebook used for performing the Exploratory Data Analysis (EDA).
-Milind_Awade.pdf: A document summarizing the analysis and conclusions drawn from the EDA.
-Loan.csv: The dataset used for the analysis.
+- README: Contains the problem description.
+- Milind_Awade.ipynb: Jupyter notebook used for performing the Exploratory Data Analysis (EDA).
+- Milind_Awade.pdf: A document summarizing the analysis and conclusions drawn from the EDA.
+- Loan.csv: The dataset used for the analysis.
 
 
  ## Summary
