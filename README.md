@@ -18,8 +18,6 @@ Loan Approved: If the loan is approved, there are three possible outcomes:
 - Charged-Off: The applicant has failed to make timely payments for an extended period, resulting in a loan default.
 
 Loan Rejected: The company declines the loan application (due to not meeting certain criteria, etc). Since these applicants did not receive a loan, no transaction history exists for them with the company, and thus, this data is not included in the dataset.
-<<<<<<< HEAD
-
 
  ## Summary
 Below resources are included as part of the solution:
@@ -28,10 +26,6 @@ README: Contains the problem description.
 Milind_Awade.ipynb: Jupyter notebook used for performing the Exploratory Data Analysis (EDA).
 Milind_Awade.pdf: A document summarizing the analysis and conclusions drawn from the EDA.
 Loan.csv: The dataset used for the analysis.
-
-
-=======
->>>>>>> 3b5c0312ab69e13bc3364cd9d76f7b36c4ca6d34
 
 
  ## Summary
@@ -50,7 +44,7 @@ Loan.csv: The dataset used for the analysis.
 Python with Pandas, Seaborn, Metplotlib
 
 ## Acknowledgements
-My partner Visha Ganguly and I did the analysis and accomplished this case study which is true to our knowledge.
+My partner Visha Ganguly and I did the analysis and completed EDA on this case study. 
 
 
 ## Contact
