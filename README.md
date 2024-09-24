@@ -18,6 +18,7 @@ Loan Approved: If the loan is approved, there are three possible outcomes:
 - Charged-Off: The applicant has failed to make timely payments for an extended period, resulting in a loan default.
 
 Loan Rejected: The company declines the loan application (due to not meeting certain criteria, etc). Since these applicants did not receive a loan, no transaction history exists for them with the company, and thus, this data is not included in the dataset.
+<<<<<<< HEAD
 
 
  ## Summary
@@ -29,53 +30,29 @@ Milind_Awade.pdf: A document summarizing the analysis and conclusions drawn from
 Loan.csv: The dataset used for the analysis.
 
 
+=======
+>>>>>>> 3b5c0312ab69e13bc3364cd9d76f7b36c4ca6d34
 
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+ ## Summary
+Below resources are included as part of the solution:
 
-<!-- You can include any other section that is pertinent to your problem -->
+README: Contains the problem description.
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+Milind_Awade.ipynb: Jupyter notebook used for performing the Exploratory Data Analysis (EDA).
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+Milind_Awade.pdf: A document summarizing the analysis and conclusions drawn from the EDA.
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+Loan.csv: The dataset used for the analysis.
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+Python with Pandas, Seaborn, Metplotlib
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+My partner Visha Ganguly and I did the analysis and accomplished this case study which is true to our knowledge.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+https://github.com/MilindAwade/
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
