@@ -25,27 +25,12 @@ Below resources are included as part of the solution:
 - README: Contains the problem description.
 - Milind_Awade.ipynb: Jupyter notebook used for performing the Exploratory Data Analysis (EDA).
 - Milind_Awade.pdf: A document summarizing the analysis and conclusions drawn from the EDA.
-- Loan.csv: The dataset used for the analysis.
-
-
- ## Summary
-Below resources are included as part of the solution:
-
-README: Contains the problem description.
-
-Milind_Awade.ipynb: Jupyter notebook used for performing the Exploratory Data Analysis (EDA).
-
-Milind_Awade.pdf: A document summarizing the analysis and conclusions drawn from the EDA.
-
-Loan.csv: The dataset used for the analysis.
-
 
 ## Technologies Used
 Python with Pandas, Seaborn, Metplotlib
 
 ## Acknowledgements
-My partner Visha Ganguly and I did the analysis and completed EDA on this case study. 
-
+My partner Vishal Ganguly and I did the analysis and completed EDA on this case study. 
 
 ## Contact
 https://github.com/MilindAwade/
